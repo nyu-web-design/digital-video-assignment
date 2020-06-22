@@ -1,6 +1,6 @@
 # Animated GIF Assignment
 
-Welcome! In this workshop, students will team up to create a video documentary using iMovie on iPhone or Mac, the equivalent on Windows, or any free video editing software of your choice, and publish it on your web pages. Include a voiceover track produced in Audacity.
+Welcome! In this workshop, students will team up to create a video documentary using iMovie on iPhone or Mac, the equivalent on Windows, or any free video editing software of your choice, and publish it on your web pages. Your video will include a voiceover track and soundtrack produced in Audacity.
 
 ## Requirements
 
@@ -21,6 +21,12 @@ Your video must...
 - include a voiceover narration track
 - include a discrete musical soundtrack, faded in and out as appropriate, in a way that does not interfere with the voiceover and other sound of the film
 - include sound effects, done tactfully, where appropriate
+
+### Post-production editing requirements
+
+- you must use a digital audio editing app, like Audacity, to record a voiceover , musical soundtrack, and sound effects that add depth to your video.
+- experiment with [http://mentalfloss.com/article/21028/5-film-transitions-worth-knowing transitions] between shots, such as dissolves, fades and wipes
+- take inspiration from the masters. The montage technique you're doing in this workshop has a long history.
 
 ### Publishing requirements
 
