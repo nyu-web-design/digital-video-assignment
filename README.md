@@ -14,10 +14,8 @@ Your video must...
 - be a documentary related in some way to your group's personal and collective experiences of the COVID-19 pandemic
 - be 3-5 minutes long
 - be entirely filmed in landscape mode on your phone or other device
-- include the following soviet montage techniques:
-  ** one example of Eisenstein's [[#Intellectual_montage|intellectual montage]] technique
-  ** two examples of other Soviet montage techniques of your choice
-- include at least two interviews of people outside your team, in person (as long as safe), or via Zoom using [[How_to_capture_a_recording_of_your_computer_screen|screen videocapture software]]
+- include the following soviet montage techniques: a) one example of Eisenstein's intellectual montage technique; b) two examples of other Soviet montage techniques of your choice
+- include at least two interviews of people outside your team, in person (as long as safe), or via Zoom using screen videocapture software
 - include a voiceover narration track
 - include a discrete musical soundtrack, faded in and out as appropriate, in a way that does not interfere with the voiceover and other sound of the film
 - include sound effects, done tactfully, where appropriate
@@ -25,7 +23,7 @@ Your video must...
 ### Post-production editing requirements
 
 - you must use a digital audio editing app, like Audacity, to record a voiceover , musical soundtrack, and sound effects that add depth to your video.
-- experiment with [http://mentalfloss.com/article/21028/5-film-transitions-worth-knowing transitions] between shots, such as dissolves, fades and wipes
+- experiment with [transitions](http://mentalfloss.com/article/21028/5-film-transitions-worth-knowing) between shots, such as dissolves, fades and wipes
 - take inspiration from the masters. The montage technique you're doing in this workshop has a long history.
 
 ### Publishing requirements
