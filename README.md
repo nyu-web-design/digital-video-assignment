@@ -59,6 +59,8 @@ In order to submit this assignment, you must publish all modified files to the w
 
 Upload all files you have created to a web server. Your instructor will have given you instructions for how to do this.
 
+- if any video files are too large to upload, make sure you have first compressed any "flat" files per the suggestions above, and if still too large, use a file sharing service (Box.com, Google Drive, iCloud, etc) to upload them and share the links with the grader.
+
 Take note of the web address (URL) of your web page - this is the address that can be plugged into the address bar of any web browser for the web browser to load and display your web page.
 
 ### Update the settings.json file
