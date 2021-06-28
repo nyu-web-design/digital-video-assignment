@@ -59,13 +59,14 @@ In order to submit this assignment, you must publish all modified files to the w
 
 Upload all files you have created to a web server. Your instructor will have given you instructions for how to do this.
 
-- if any video files are too large to upload, make sure you have first compressed any "flat" files per the suggestions above, and if still too large, use a file sharing service (Box.com, Google Drive, iCloud, etc) to upload them and share the links with the grader.
+- if any video files are too large to upload, make sure you have first compressed any "flat" files per the suggestions above, and if still too large, use a file sharing service (Box.com, Google Drive, iCloud, etc) to upload them.
 
 Take note of the web address (URL) of your web page - this is the address that can be plugged into the address bar of any web browser for the web browser to load and display your web page.
+Also take note of the web address (URL) of your source (layered) video file - this is the address that can be plugged into the address bar of any web browser for the web browser to download your editable source video file.
 
 ### Update the settings.json file
 
-Make sure your name, NYU Net ID, and the exact URL of your web site's home page are placed into the `settings.json` file in the appropriate places. Make sure the URL works when plugged into a web browser beforehand.
+Make sure your name, NYU Net ID, and the exact URL of your web site's home page and source video file are placed into the `settings.json` file in the appropriate places. Make sure the URLs work when plugged into a web browser beforehand.
 
 ### Submit your work on GitHub
 
